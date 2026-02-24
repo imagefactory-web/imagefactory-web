@@ -23,7 +23,7 @@ I focus on building **enterprise-ready, production-hardened systems**, not just 
 
 ## 🧠 What I Bring to the Table
 
-✔ Multi-environment CI/CD architecture (INT → TST → PRD)  
+✔ Multi-environment CI/CD architecture
 ✔ Secure secret handling using AWS Secrets Manager  
 ✔ Golden AMI creation with Packer + Hardening  
 ✔ Kubernetes Stateful vs Stateless architecture  
