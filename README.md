@@ -96,7 +96,7 @@ Liquibase
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: ([Add your link](https://www.linkedin.com/in/surya-raghava-6aa09abb/))
+- 💼 LinkedIn: (https://www.linkedin.com/in/surya-raghava-6aa09abb/)
 - 📧 Email: (suryaragk@gmail.com)
 - 🌍 Open to: Senior DevOps / Platform Engineer / Cloud Architect roles
 
