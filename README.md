@@ -85,14 +85,6 @@ Liquibase
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Currently Focused On
 
 - Production-grade EKS architecture
@@ -104,8 +96,8 @@ Liquibase
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add professional email)
+- 💼 LinkedIn: ([Add your link](https://www.linkedin.com/in/surya-raghava-6aa09abb/))
+- 📧 Email: (suryaragk@gmail.com)
 - 🌍 Open to: Senior DevOps / Platform Engineer / Cloud Architect roles
 
 ---
